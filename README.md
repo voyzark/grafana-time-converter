@@ -1,3 +1,7 @@
+# WORK IN PROGRESS
+This package does not work yet!
+Wait for release 0.1 before using
+
 # grafana-time-converter
 Convert grafana time ranges to usable formats
 
